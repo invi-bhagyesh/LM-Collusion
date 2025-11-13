@@ -12,7 +12,9 @@ Interestingly, the agents often settle into stable market divisions, each contro
 
 ---
 
-![LM-Collusion](assets/llm.png)
+<p align="center">
+  <img src="assets/llm.png" alt="LM-Collusion" width="200">
+</p>
 
 ## Implementation Outline
 
